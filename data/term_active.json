@@ -424,7 +424,7 @@
  },
  {
   "en": "Acolyte of the Skin",
-  "note": "术语统一：皮甲侍僧 -> 植皮者",
+  "note": "术语统一：剥皮侍僧 -> 植皮者",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -2098,7 +2098,7 @@
  },
  {
   "en": "Arcane Trickster",
-  "note": "术语统一：奥术诡术师 -> 诡术师",
+  "note": "术语统一：奥术欺愚者 -> 诡术师",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -2620,7 +2620,7 @@
  },
  {
   "en": "Astral Construct",
-  "note": "术语统一：星界构装体 -> 星质构装体",
+  "note": "术语统一：星界构造体 -> 星质构装体",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -3205,7 +3205,7 @@
  },
  {
   "en": "Ayailla's Radiant Burst",
-  "note": "术语统一：艾雅拉的光辉速度爆发 -> 厄亚埃拉的光辉炸裂",
+  "note": "术语统一：阿雅拉的光辉速度爆发 -> 厄亚埃拉的光辉炸裂",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -3430,7 +3430,7 @@
  },
  {
   "en": "Baleful Transposition",
-  "note": "术语统一：恶意换位 -> 移形换影",
+  "note": "术语统一：恶意置换 -> 移形换影",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -3925,10 +3925,10 @@
  },
  {
   "en": "Beastmaster",
-  "note": "DND3R 进阶职业一览",
+  "note": "术语统一：兽王 -> 万兽王",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "万兽王"
  },
@@ -4069,7 +4069,7 @@
  },
  {
   "en": "Benign Transposition",
-  "note": "术语统一：移形换位 -> 王车易位",
+  "note": "术语统一：良性换位 -> 王车易位",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -4762,7 +4762,7 @@
  },
  {
   "en": "Blast of Force",
-  "note": "术语统一：力能冲击 -> 力场冲击",
+  "note": "术语统一：力能爆 -> 力场冲击",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -4924,10 +4924,10 @@
  },
  {
   "en": "Blighter",
-  "note": "完美神力",
+  "note": "术语统一：荒芜者 -> 枯萎者",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "枯萎者"
  },
@@ -6931,10 +6931,10 @@
  },
  {
   "en": "Cavalier",
-  "note": "完美战力",
+  "note": "术语统一：骑士（骑兵） -> 精英骑士",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "精英骑士"
  },
@@ -7219,7 +7219,7 @@
  },
  {
   "en": "Chaav's Laugh",
-  "note": "术语统一：查夫的欢笑 -> 查芙的欢笑",
+  "note": "术语统一：查维的笑声 -> 查芙的欢笑",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -8470,7 +8470,7 @@
  },
  {
   "en": "Clutch of Orcus",
-  "note": "术语统一：奥库斯之握 -> 奥克斯之攫",
+  "note": "术语统一：死亡之握 -> 奥克斯之攫",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -11062,7 +11062,7 @@
  },
  {
   "en": "Curse of Petty Failing",
-  "note": "术语统一：小挫败诅咒 -> 瑕疵诅咒",
+  "note": "术语统一：微末失败诅咒 -> 瑕疵诅咒",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -11296,7 +11296,7 @@
  },
  {
   "en": "Dancing Web",
-  "note": "术语统一：舞动蛛网 -> 飞舞的蛛网",
+  "note": "术语统一：舞光蛛网 -> 飞舞的蛛网",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -12835,7 +12835,7 @@
  },
  {
   "en": "Destiny Dissonance",
-  "note": "术语统一：命运失调 -> 体验命运",
+  "note": "术语统一：天命不谐 -> 体验命运",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -13879,7 +13879,7 @@
  },
  {
   "en": "Discern Location",
-  "note": "术语统一：辨识位置 -> 感知位置",
+  "note": "术语统一：辨知位置 -> 感知位置",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -14050,12 +14050,12 @@
  },
  {
   "en": "Dismissal",
-  "note": "术语统一：遣返术 -> 驱逐术",
+  "note": "术语统一：驱散术，灵能 -> 驱逐术，灵能",
   "required": 1,
   "seq": null,
   "src": "rename",
   "type": "spell",
-  "zh": "驱逐术"
+  "zh": "驱逐术，灵能"
  },
  {
   "en": "Dismissal, Psionic",
@@ -14212,7 +14212,7 @@
  },
  {
   "en": "Dispelling Buffer",
-  "note": "术语统一：抵抗驱散 -> 抗解除缓冲",
+  "note": "术语统一：解除缓冲 -> 抗解除缓冲",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -15499,7 +15499,7 @@
  },
  {
   "en": "Dragon Devotee",
-  "note": "术语统一：龙之献身者 -> 巨龙狂热者",
+  "note": "术语统一：龙师之手 -> 巨龙狂热者",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -15508,12 +15508,12 @@
  },
  {
   "en": "Dragon Disciple",
-  "note": "术语统一：龙之信徒 -> 龙脉术士",
+  "note": "术语统一：哪种龙裔 -> 哪种龙脉术士",
   "required": 1,
   "seq": null,
   "src": "rename",
   "type": "prestige_class",
-  "zh": "龙脉术士"
+  "zh": "哪种龙脉术士"
  },
  {
   "en": "Dragon Familiar",
@@ -15814,12 +15814,12 @@
  },
  {
   "en": "Dragonwrought",
-  "note": "术语统一：龙铸 -> 龙类进化",
+  "note": "术语统一：龙血，铜 -> 龙类进化，铜",
   "required": 1,
   "seq": null,
   "src": "rename",
   "type": "feat",
-  "zh": "龙类进化"
+  "zh": "龙类进化，铜"
  },
  {
   "en": "Drain Vitality",
@@ -43515,7 +43515,7 @@
  },
  {
   "en": "Scout",
-  "note": "术语统一：侦察兵 -> 斥候",
+  "note": "术语统一：游侠 -> 斥候",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -53270,11 +53270,29 @@
   "zh": "幽影之躯"
  },
  {
-  "en": "Umbral Shroud",
-  "note": "完美斗士",
-  "required": 0,
+  "en": "Umbral Disciple",
+  "note": "术语统一：阴影信徒 -> 幽影信徒",
+  "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
+  "type": "name",
+  "zh": "幽影信徒"
+ },
+ {
+  "en": "Umbral Mind",
+  "note": "术语统一：阴影心智 -> 幽影心智",
+  "required": 1,
+  "seq": null,
+  "src": "rename",
+  "type": "name",
+  "zh": "幽影心智"
+ },
+ {
+  "en": "Umbral Shroud",
+  "note": "术语统一：阴影遮蔽 -> 阴影裹尸布",
+  "required": 1,
+  "seq": null,
+  "src": "rename",
   "type": "feat",
   "zh": "阴影裹尸布"
  },
