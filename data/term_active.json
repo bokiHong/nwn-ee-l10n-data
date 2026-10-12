@@ -208,12 +208,12 @@
  },
  {
   "en": "Aboleth, Mage",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：去掉混排英文 Lv10 → 10 级",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "底栖魔鱼巫师，Lv10 法师"
+  "zh": "底栖魔鱼巫师，10 级法师"
  },
  {
   "en": "Abominable Form",
@@ -892,12 +892,12 @@
  },
  {
   "en": "Aleval School",
-  "note": "幽域卓尔",
+  "note": "术语表清洗（2026-10-11）：旧值把英文原样留在译名里（ALEVAL门派）✗；语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "ALEVAL门派"
+  "zh": "阿莱瓦尔门派"
  },
  {
   "en": "Algid Enhancement",
@@ -919,7 +919,7 @@
  },
  {
   "en": "Alienist",
-  "note": "术语统一：异化师 -> 异形学家",
+  "note": "术语统一：异星学者 -> 异形学家",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -1360,7 +1360,7 @@
  },
  {
   "en": "Animalistic Power",
-  "note": "术语统一：兽性之力 -> 野性力量",
+  "note": "术语统一：动物之力 -> 野性力量",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -1909,10 +1909,10 @@
  },
  {
   "en": "Arcane Archer",
-  "note": "DND3R 进阶职业一览",
+  "note": "术语统一：奥术射手 -> 魔射手",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "魔射手"
  },
@@ -3547,12 +3547,12 @@
  },
  {
   "en": "Barbazu",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(巴霸魔) Bearded Devil」混排；语料 0 命中、无影响",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "倒钩魔 (巴霸魔) Bearded Devil"
+  "zh": "倒钩魔"
  },
  {
   "en": "Bard",
@@ -4177,12 +4177,12 @@
  },
  {
   "en": "Bezekira",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(巴泽吉亚斯) Hellcat」混排",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "地狱猫 (巴泽吉亚斯) Hellcat"
+  "zh": "地狱猫"
  },
  {
   "en": "Bigby's Disrupting Hand",
@@ -5158,7 +5158,7 @@
  },
  {
   "en": "Blood Frenzy",
-  "note": "术语统一：血之狂怒 -> 血腥狂暴",
+  "note": "术语统一：血狂 -> 血腥狂暴",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -6841,7 +6841,7 @@
  },
  {
   "en": "Catapsi",
-  "note": "术语统一：心灵阻断 -> 抑能术",
+  "note": "术语统一：卡塔西 -> 抑能术",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -7300,10 +7300,10 @@
  },
  {
   "en": "Champion of Corellon Larethian",
-  "note": "荒野族裔",
+  "note": "术语统一：柯瑞隆·拉瑞斯安勇士 -> 科瑞隆·拉瑞斯安的斗士",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "科瑞隆·拉瑞斯安的斗士"
  },
@@ -8470,12 +8470,12 @@
  },
  {
   "en": "Clutch of Orcus",
-  "note": "术语统一：死亡之握 -> 奥克斯之攫",
+  "note": "术语库编辑器修改",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "spell",
-  "zh": "奥克斯之攫"
+  "zh": "奥喀斯之攫"
  },
  {
   "en": "Co-Opt Concentration",
@@ -9973,12 +9973,12 @@
  },
  {
   "en": "Cornugon",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(恐纳魔) Horned Devil」混排；既有译文即「角魔」✓",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "角魔 (恐纳魔) Horned Devil"
+  "zh": "角魔"
  },
  {
   "en": "Corona of Cold",
@@ -10513,7 +10513,7 @@
  },
  {
   "en": "Creeping Doom",
-  "note": "术语统一：蠕行末日 -> 漫天虫蚀",
+  "note": "术语统一：蔓延末日 -> 漫天虫蚀",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -10729,7 +10729,7 @@
  },
  {
   "en": "Crumble",
-  "note": "术语统一：崩解 -> 粉碎术",
+  "note": "术语统一：崩裂术 -> 粉碎术",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -11251,7 +11251,7 @@
  },
  {
   "en": "Dancing Blade",
-  "note": "玩家手册II",
+  "note": "完美奥术",
   "required": 0,
   "seq": null,
   "src": "huijiwiki",
@@ -11259,13 +11259,13 @@
   "zh": "旋舞之刃"
  },
  {
-  "en": "Dancing Blade",
-  "note": "完美奥术",
+  "en": "dancing blade",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中，无影响面",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "spell",
-  "zh": "舞空之刃"
+  "zh": "旋舞之刃"
  },
  {
   "en": "Dancing Blade Form",
@@ -11311,6 +11311,15 @@
   "src": "huijiwiki",
   "type": "feat",
   "zh": "危险感知"
+ },
+ {
+  "en": "Dantalion",
+  "note": "契灵（《恶魔志》）本体名，2026-10-11 补登",
+  "required": 1,
+  "seq": null,
+  "src": "manual",
+  "type": "prestige_class",
+  "zh": "丹塔利安"
  },
  {
   "en": "Daredevil Athlete",
@@ -14050,12 +14059,12 @@
  },
  {
   "en": "Dismissal",
-  "note": "术语统一：驱散术，灵能 -> 驱逐术，灵能",
+  "note": "修复：被写成「驱逐术，灵能」✗",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "spell",
-  "zh": "驱逐术，灵能"
+  "zh": "驱逐术"
  },
  {
   "en": "Dismissal, Psionic",
@@ -15274,12 +15283,21 @@
  },
  {
   "en": "Draconic Breath",
-  "note": "术语统一：龙裔吐息 -> 龙脉之息",
+  "note": "2026-10-11 用户裁决：龙脉之息 -> 龙息（并统一正文）",
   "required": 1,
   "seq": null,
-  "src": "rename",
-  "type": "feat",
-  "zh": "龙脉之息"
+  "src": "manual",
+  "type": "spell",
+  "zh": "龙息"
+ },
+ {
+  "en": "Draconic Breath Weapon",
+  "note": "2026-10-11 补条目：龙心法师的能力名，之前缺条目导致 `Draconic Breath`（龙脉之息）误报",
+  "required": 0,
+  "seq": null,
+  "src": "manual",
+  "type": "spell",
+  "zh": "龙脉吐息武器"
  },
  {
   "en": "Draconic Claw",
@@ -15499,21 +15517,21 @@
  },
  {
   "en": "Dragon Devotee",
-  "note": "术语统一：龙师之手 -> 巨龙狂热者",
+  "note": "修复：被写成「巨龙狂热者或龙脉术士职业」✗",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "class",
   "zh": "巨龙狂热者"
  },
  {
   "en": "Dragon Disciple",
-  "note": "术语统一：哪种龙裔 -> 哪种龙脉术士",
+  "note": "修复：被虚拟术语写成「哪种龙脉术士」✗",
   "required": 1,
   "seq": null,
-  "src": "rename",
-  "type": "prestige_class",
-  "zh": "哪种龙脉术士"
+  "src": "manual",
+  "type": "class",
+  "zh": "龙脉术士"
  },
  {
   "en": "Dragon Familiar",
@@ -15787,12 +15805,12 @@
  },
  {
   "en": "Dragonstalker",
-  "note": "巨龙之书",
+  "note": "术语表清洗（2026-10-11）：去掉消歧后缀（职业）",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "prestige_class",
-  "zh": "猎龙者（职业）"
+  "zh": "猎龙者"
  },
  {
   "en": "Dragonthrall",
@@ -15814,12 +15832,12 @@
  },
  {
   "en": "Dragonwrought",
-  "note": "术语统一：龙血，铜 -> 龙类进化，铜",
+  "note": "修复：被写成「仅限1级或龙类进化且3级」✗",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "feat",
-  "zh": "龙类进化，铜"
+  "zh": "龙类进化"
  },
  {
   "en": "Drain Vitality",
@@ -16210,10 +16228,10 @@
  },
  {
   "en": "Duskblade",
-  "note": "玩家手册II",
+  "note": "术语统一：幽刃客 -> 暮刃",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "class",
   "zh": "暮刃"
  },
@@ -16921,12 +16939,12 @@
  },
  {
   "en": "Eilservs School",
-  "note": "幽域卓尔",
+  "note": "术语表清洗（2026-10-11）：同上（EILSERVS门派）✗；语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "EILSERVS门派"
+  "zh": "艾尔瑟弗斯门派"
  },
  {
   "en": "Einhander",
@@ -17047,7 +17065,7 @@
  },
  {
   "en": "Eldritch Knight",
-  "note": "术语统一：邪术骑士 -> 奥法骑士",
+  "note": "术语统一：魔剑骑士 -> 奥法骑士",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -17065,7 +17083,7 @@
  },
  {
   "en": "Eldritch Theurge",
-  "note": "术语统一：邪术魔导 -> 魔焰术师",
+  "note": "术语统一：魔能法师 -> 魔焰术师",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -17074,7 +17092,7 @@
  },
  {
   "en": "Electric Jolt",
-  "note": "术语统一：电击 -> 电流震击",
+  "note": "术语统一：Electric Jolt -> 电流震击",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -18298,7 +18316,7 @@
  },
  {
   "en": "Enlightened Fist",
-  "note": "术语统一：开悟之拳 -> 启迪之拳",
+  "note": "术语统一：启蒙之拳 -> 启迪之拳",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -18415,7 +18433,7 @@
  },
  {
   "en": "Entropic Shield",
-  "note": "术语统一：熵之护盾 -> 熵光护盾",
+  "note": "术语统一：熵之盾 -> 熵光护盾",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -18424,10 +18442,10 @@
  },
  {
   "en": "Entropomancer",
-  "note": "完美神力",
+  "note": "术语统一：熵师 -> 熵空使",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "熵空使"
  },
@@ -20080,10 +20098,10 @@
  },
  {
   "en": "Fatemaker",
-  "note": "位面手册",
+  "note": "术语统一：命运编织者 -> 定命者",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "定命者"
  },
@@ -20872,7 +20890,7 @@
  },
  {
   "en": "Fire in the Blood",
-  "note": "术语统一：血中之火 -> 血焰术",
+  "note": "术语统一：血中火 -> 血焰术",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -22330,12 +22348,12 @@
  },
  {
   "en": "Frozen Berserker",
-  "note": "术语统一：冰霜狂战士 -> 霜冻狂战士",
+  "note": "2026-10-11 用户裁决：霜冻狂战士 -> 冰冻狂战士（霜怒者也一并译作冰冻狂战士）",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "feat",
-  "zh": "霜冻狂战士"
+  "zh": "冰冻狂战士"
  },
  {
   "en": "Frozen Magic",
@@ -22555,12 +22573,12 @@
  },
  {
   "en": "Gelugon",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(奇鲁魔) Ice Devil」混排；既有译文即「冰魔」✓",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "冰魔 (奇鲁魔) Ice Devil"
+  "zh": "冰魔"
  },
  {
   "en": "Gembomb",
@@ -23347,7 +23365,7 @@
  },
  {
   "en": "Gloura",
-  "note": "术语统一：Gloura -> 格劳拉",
+  "note": "术语统一：格鲁拉 -> 格劳拉",
   "required": 1,
   "seq": null,
   "src": "rename",
@@ -23479,6 +23497,15 @@
   "src": "rename",
   "type": "monster",
   "zh": "地精"
+ },
+ {
+  "en": "Goblin Shark",
+  "note": "2026-10-11 补条目：正文用它就没必要报 `Goblin` 违规（尖吻鲛是 goblin shark 的学名）",
+  "required": 0,
+  "seq": null,
+  "src": "manual",
+  "type": "monster",
+  "zh": "尖吻鲛"
  },
  {
   "en": "Gold Dragon Lineage",
@@ -24652,12 +24679,12 @@
  },
  {
   "en": "Hamatula",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：取**既有译文多数派「哈玛魔」**（旧值主译名「尖刺魔」与 5 行既有译文不符 ✗）",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "尖刺魔 (哈玛魔) Barbed Devil"
+  "zh": "哈玛魔"
  },
  {
   "en": "Hamatula Barbs",
@@ -25840,10 +25867,10 @@
  },
  {
   "en": "Hoardstealer",
-  "note": "巨龙之书",
+  "note": "术语统一：窃宝者 -> 宝库窃贼",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "rename",
   "type": "prestige_class",
   "zh": "宝库窃贼"
  },
@@ -29980,12 +30007,12 @@
  },
  {
   "en": "Kyton",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(基顿魔) Chain Devil」混排；语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "链魔 (基顿魔) Chain Devil"
+  "zh": "链魔"
  },
  {
   "en": "Lamia",
@@ -30421,12 +30448,12 @@
  },
  {
   "en": "Leonal's Roar",
-  "note": "术语统一：利昂纳尔之咆哮 -> 狮鬃天的咆啸",
+  "note": "2026-10-11 用户裁决：狮鬃天的咆啸 -> 利昂纳尔之吼（与正文一致）",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "spell",
-  "zh": "狮鬃天的咆啸"
+  "zh": "利昂纳尔之吼"
  },
  {
   "en": "Leopard",
@@ -33310,12 +33337,12 @@
  },
  {
   "en": "Mentor",
-  "note": "城主指南II",
+  "note": "术语表清洗（2026-10-11）：去掉消歧后缀（专长）",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "导师（专长）"
+  "zh": "导师"
  },
  {
   "en": "Mephit",
@@ -35594,11 +35621,11 @@
   "zh": "夜之游灵"
  },
  {
-  "en": "Night's Caress",
-  "note": "万法大全",
+  "en": "night's caress",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "spell",
   "zh": "夜之爱抚"
  },
@@ -35609,7 +35636,7 @@
   "seq": null,
   "src": "rename",
   "type": "spell",
-  "zh": "夜之抚"
+  "zh": "夜之爱抚"
  },
  {
   "en": "Nightcloak",
@@ -36449,6 +36476,15 @@
   "zh": "念刃：兽人双头斧"
  },
  {
+  "en": "Orcus",
+  "note": "术语库编辑器新增",
+  "required": 1,
+  "seq": null,
+  "src": "manual",
+  "type": "name",
+  "zh": "奥喀斯"
+ },
+ {
   "en": "Order Forged From Chaos",
   "note": "术语统一：混沌铸序 -> 乱中求治",
   "required": 1,
@@ -36486,12 +36522,12 @@
  },
  {
   "en": "Osyluth",
-  "note": "怪物图鉴",
+  "note": "术语表清洗（2026-10-11）：清掉「(奥塞魔) Bone Devil」混排；既有译文即「骨魔」✓",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "骨魔 (奥塞魔) Bone Devil"
+  "zh": "骨魔"
  },
  {
   "en": "Otiluke's Dispelling Screen",
@@ -39474,12 +39510,12 @@
  },
  {
   "en": "Psionic Weapon",
-  "note": "扩展灵能",
+  "note": "术语表清洗（2026-10-11）：去掉消歧后缀（专长）",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "灵能武器（专长）"
+  "zh": "灵能武器"
  },
  {
   "en": "Psionics",
@@ -41750,20 +41786,11 @@
   "zh": "复制施法"
  },
  {
-  "en": "Repose",
-  "note": "完美灵能",
+  "en": "repose",
+  "note": "同英多译统一（2026-10-11）：与 Repose 领域既有译法一致",
   "required": 1,
   "seq": null,
-  "src": "huijiwiki",
-  "type": "mantle",
-  "zh": "安宁"
- },
- {
-  "en": "Repose",
-  "note": "沙暴之书",
-  "required": 1,
-  "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "mantle",
   "zh": "安息"
  },
@@ -42362,21 +42389,12 @@
   "zh": "刃舞护环"
  },
  {
-  "en": "Ring of Fire",
-  "note": "邪恶典范/战斗卷册/Exemplars of Evil",
+  "en": "ring of fire",
+  "note": "同英多译统一（2026-10-11）：语料 1 行用「红莲之阵」",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "spell",
-  "zh": "火焰轰鸣"
- },
- {
-  "en": "Ring Of Fire",
-  "note": "术语统一：火焰轰鸣 -> 红莲之阵",
-  "required": 1,
-  "seq": null,
-  "src": "rename",
-  "type": "martial",
   "zh": "红莲之阵"
  },
  {
@@ -42462,12 +42480,21 @@
  },
  {
   "en": "Rogue",
-  "note": "术语统一：盗贼 -> 游荡者",
-  "required": 1,
+  "note": "降为建议：Rogue Stone（盗贼之石）里会误命中，2026-10-11",
+  "required": 0,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "class",
   "zh": "游荡者"
+ },
+ {
+  "en": "Rogue Stone",
+  "note": "依据既有 71 处主流译法（2026-10-11 修正：勿用「盗贼之石」少数派）",
+  "required": 1,
+  "seq": null,
+  "src": "manual",
+  "type": "item",
+  "zh": "游荡者之石"
  },
  {
   "en": "Ronin",
@@ -42530,7 +42557,16 @@
   "seq": null,
   "src": "rename",
   "type": "martial",
-  "zh": "稳如泰山"
+  "zh": "落地生根"
+ },
+ {
+  "en": "roots of the mountain",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中；与「顽石之力」同类武术招式",
+  "required": 1,
+  "seq": null,
+  "src": "manual",
+  "type": "feat",
+  "zh": "落地生根"
  },
  {
   "en": "Rope Trick",
@@ -42633,21 +42669,21 @@
  },
  {
   "en": "Run",
-  "note": "术语统一：奔跑 -> 飞跑",
-  "required": 1,
-  "seq": null,
-  "src": "rename",
-  "type": "feat",
-  "zh": "飞跑"
- },
- {
-  "en": "Run",
   "note": "玩家手册",
   "required": 1,
   "seq": null,
   "src": "huijiwiki",
   "type": "feat",
-  "zh": "奔跑"
+  "zh": "飞跑"
+ },
+ {
+  "en": "run",
+  "note": "同英多译统一（2026-10-11）：语料 9 行全用「飞跑」",
+  "required": 1,
+  "seq": null,
+  "src": "manual",
+  "type": "feat",
+  "zh": "飞跑"
  },
  {
   "en": "Rune",
@@ -43343,15 +43379,6 @@
   "zh": "学者之触"
  },
  {
-  "en": "School",
-  "note": "幽域卓尔",
-  "required": 0,
-  "seq": null,
-  "src": "huijiwiki",
-  "type": "feat",
-  "zh": "INLINDL门派"
- },
- {
   "en": "School of Magic",
   "note": "玩家手册",
   "required": 1,
@@ -43398,12 +43425,12 @@
  },
  {
   "en": "Scion Of Dantalion",
-  "note": "术语统一：丹塔利昂后裔 -> 但塔利恩子嗣",
+  "note": "统一 Dantalion 译名（多数派「丹塔利安」），2026-10-11",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "prestige_class",
-  "zh": "但塔利恩子嗣"
+  "zh": "丹塔利安子嗣"
  },
  {
   "en": "Scion of Tem-Et-Nu",
@@ -43767,7 +43794,7 @@
  },
  {
   "en": "Second Wind",
-  "note": "模型手册",
+  "note": "万法大全",
   "required": 0,
   "seq": null,
   "src": "huijiwiki",
@@ -43775,13 +43802,13 @@
   "zh": "回气"
  },
  {
-  "en": "Second Wind",
-  "note": "万法大全",
+  "en": "second wind",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "重振精神"
+  "zh": "回气"
  },
  {
   "en": "Secret Chest",
@@ -46990,20 +47017,11 @@
  {
   "en": "Spell",
   "note": "术语统一：法术 -> 法咒",
-  "required": 1,
+  "required": 0,
   "seq": null,
   "src": "rename",
   "type": "domain",
   "zh": "法咒"
- },
- {
-  "en": "Spell",
-  "note": "玩家手册",
-  "required": 1,
-  "seq": null,
-  "src": "huijiwiki",
-  "type": "domain",
-  "zh": "法术"
  },
  {
   "en": "Spell Completion Item",
@@ -47754,12 +47772,12 @@
  },
  {
   "en": "Spiritual Weapon",
-  "note": "玩家手册",
+  "note": "术语表清洗（2026-10-11）：**错译修正**：Spiritual Weapon = 灵体武器（旧值「灵能武器（法术）」把 Spiritual 当成 ",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "spell",
-  "zh": "灵能武器（法术）"
+  "zh": "灵体武器"
  },
  {
   "en": "Spiritwall",
@@ -50535,7 +50553,7 @@
  },
  {
   "en": "Swim",
-  "note": "玩家手册",
+  "note": "完美奥术/万法大全/风暴之书",
   "required": 0,
   "seq": null,
   "src": "huijiwiki",
@@ -50543,13 +50561,13 @@
   "zh": "游泳"
  },
  {
-  "en": "Swim",
-  "note": "完美奥术/万法大全/风暴之书",
+  "en": "swim",
+  "note": "同英多译统一（2026-10-11）：语料 12 行全用「游泳」",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "skill",
-  "zh": "游泳术"
+  "zh": "游泳"
  },
  {
   "en": "Swim Like A Fish",
@@ -51722,20 +51740,11 @@
   "zh": "虎血"
  },
  {
-  "en": "Tiger's Tooth",
-  "note": "模型手册/万法大全",
+  "en": "tiger's tooth",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中；与其他武术招式「创伤攻击」体例一致",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
-  "type": "spell",
-  "zh": "猛虎之牙"
- },
- {
-  "en": "Tiger's Tooth",
-  "note": "万法大全",
-  "required": 0,
-  "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "spell",
   "zh": "虎齿术"
  },
@@ -51975,12 +51984,12 @@
  },
  {
   "en": "Tormtor School",
-  "note": "幽域卓尔",
+  "note": "术语表清洗（2026-10-11）：同上（TORMTOR门派）✗；语料 0 命中",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "TORMTOR门派"
+  "zh": "托姆托尔门派"
  },
  {
   "en": "Tornado Blast",
@@ -52209,12 +52218,12 @@
  },
  {
   "en": "Touchstone",
-  "note": "沙暴之书",
+  "note": "术语表清洗（2026-10-11）：去掉消歧后缀（专长）",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "feat",
-  "zh": "触石地（专长）"
+  "zh": "触石地"
  },
  {
   "en": "Touchstone Lightning",
@@ -53253,12 +53262,12 @@
  },
  {
   "en": "Umbral",
-  "note": "术语统一：暗影芒刺 -> 幽影芒刺",
+  "note": "修复：被写成「幽影芒刺」✗（用户裁决 Umbral=幽影）",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "name",
-  "zh": "幽影芒刺"
+  "zh": "幽影"
  },
  {
   "en": "Umbral Body",
@@ -53964,12 +53973,12 @@
  },
  {
   "en": "Vae School",
-  "note": "术语统一：瓦伊学派 -> VAE门派",
+  "note": "术语表清洗（2026-10-11）：同上（VAE门派）✗",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "feat",
-  "zh": "VAE门派"
+  "zh": "瓦艾门派"
  },
  {
   "en": "Valiant Fury",
@@ -56241,12 +56250,12 @@
  },
  {
   "en": "Wilder",
-  "note": "术语统一：狂野任意 -> 狂念者任意",
+  "note": "修正误伤：狂念者任意 -> 狂念者（2026-10-11 加固时发现）",
   "required": 1,
   "seq": null,
-  "src": "rename",
+  "src": "manual",
   "type": "class",
-  "zh": "狂念者任意"
+  "zh": "狂念者"
  },
  {
   "en": "Will Save",
@@ -57023,22 +57032,13 @@
   "zh": "锡尔族"
  },
  {
-  "en": "Xorn",
-  "note": "怪物图鉴",
+  "en": "xorn",
+  "note": "同英多译统一（2026-10-11）：语料 0 命中；Xorn 的标准译名",
   "required": 0,
   "seq": null,
-  "src": "huijiwiki",
+  "src": "manual",
   "type": "monster",
-  "zh": "索尔石怪长老"
- },
- {
-  "en": "Xorn",
-  "note": "怪物图鉴",
-  "required": 0,
-  "seq": null,
-  "src": "huijiwiki",
-  "type": "monster",
-  "zh": "小索尔石怪"
+  "zh": "索尔石怪"
  },
  {
   "en": "Xorn Movement",
@@ -57714,15 +57714,6 @@
   "src": "glossary",
   "type": "name",
   "zh": "舍卡尔"
- },
- {
-  "en": "Talas",
-  "note": "人名",
-  "required": 1,
-  "seq": 44,
-  "src": "glossary",
-  "type": "name",
-  "zh": "塔拉斯"
  },
  {
   "en": "Taravan",
@@ -58518,10 +58509,10 @@
  },
  {
   "en": "Gemarak",
-  "note": "人名（Ch2 高频，必守）",
+  "note": "术语统一：盖玛拉克 -> 格玛拉克",
   "required": 1,
   "seq": 133,
-  "src": "glossary",
+  "src": "rename",
   "type": "name",
   "zh": "格玛拉克"
  },
